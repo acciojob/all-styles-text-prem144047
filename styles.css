@@ -2,7 +2,7 @@
 	width:200px;
 	background-color:purple;
 	border-left-width:5px;
-	border-left-color:green;
+	border-left:solid green;
 	padding:10px;
 }
 #heading{
